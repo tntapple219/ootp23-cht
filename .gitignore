@@ -1,0 +1,4 @@
+# Rovo Dev session files
+.rovodev/
+# IDE specific files (if not shared)
+.vscode/
